@@ -617,3 +617,10 @@ This project is created for educational purposes as part of an API Group Project
 - [ ] Checked responsive design on different screen sizes
 - [ ] Reviewed all team contributions
 - [ ] Committed final changes to GitHub
+
+## Team Members
+
+- Vincent Cayabyab – Project Lead / API Integration
+- Maria Lorena Sheen Velasco – Frontend & UI Design 
+- Fiona Ley Maramba – Documentation & Testing 
+
